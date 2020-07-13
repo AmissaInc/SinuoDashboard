@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SinuoDashboard/precache-manifest.e7ffec928389ad6ada756b3b68cd1e8f.js"
+  "/SinuoDashboard/precache-manifest.86195b0fbc33eeb999af09a2f5e3e0a8.js"
 );
 
 self.addEventListener('message', (event) => {
