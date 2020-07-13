@@ -29,9 +29,10 @@ const Header = ({ onClick }) => (
           {/* </Link> */}
           </a></div>
           {/* <button type="button" className="landing__btn landing__btn--header" onClick={onClick}> */}
-          <button type="button" className="landing__btn landing__btn--header" to="/dashboard">
+          {/* <button type="button" className="landing__btn landing__btn--header" to="/dashboard"> */}
+          <button type="button" className="landing__btn landing__btn--header"><a href="/dashboard">
             Go to the Dashboard
-          </button>
+            </a></button>
           <br></br>
           {/* <img className="landing__header-img" src={img} alt="macbook" /> */}
         </Col>

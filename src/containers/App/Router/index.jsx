@@ -9,13 +9,19 @@ import LogInPhoto from '../../Account/log_in_photo/index';
 import Register from '../../Account/Register/index';
 import RegisterPhoto from '../../Account/RegisterPhoto/index';
 import WrappedRoutes from './WrappedRoutes';
+import DefaultDashboard from '../../Dashboards/Fitness/index';
+import Layout from '../../Layout/index';
 
 
 const Router = () => (
   <MainWrapper>
+    <Layout />
+      <div className="container__wrap">
+        <Route exact path="/" component={DefaultDashboard} />
+      </div>
     <main>
       <Switch>
-        <Route exact path="/" component={Landing} />
+        {/* <Route exact path="/" component={Landing} /> */}
         <Route path="/404" component={NotFound404} />
         <Route path="/lock_screen" component={LockScreen} />
         <Route path="/log_in" component={LogIn} />

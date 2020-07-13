@@ -58,7 +58,7 @@ class App extends Component {
           returnTo={`${window.location.origin}/SinuoDashboard/dashboard`}
           onRedirectCallback={this.onRedirectCallbackAuth0}
         >
-          <BrowserRouter basename="/SinuoDashboard">
+          <BrowserRouter basename="/SinuoDashboard/">
             <I18nextProvider i18n={i18next}>
               <ScrollToTop>
                 <Fragment>
