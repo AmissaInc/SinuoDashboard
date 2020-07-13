@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bc840f75c80b12b5905b4a08f925f8e",
+    "revision": "80ffd63add6e420adee9a552ef572505",
     "url": "/SinuoDashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SinuoDashboard/static/css/2.6bbc83f4.chunk.css"
   },
   {
-    "revision": "b4fe993cfb89a270f924",
+    "revision": "f0f3dc556feacf3e04f1",
     "url": "/SinuoDashboard/static/css/main.39de3a1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SinuoDashboard/static/js/2.b7eb3f59.chunk.js"
   },
   {
-    "revision": "b4fe993cfb89a270f924",
-    "url": "/SinuoDashboard/static/js/main.b4fe993c.chunk.js"
+    "revision": "f0f3dc556feacf3e04f1",
+    "url": "/SinuoDashboard/static/js/main.f0f3dc55.chunk.js"
   },
   {
     "revision": "1767b82059c9cb622fe5",
