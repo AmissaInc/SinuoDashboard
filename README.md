@@ -45,3 +45,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Links:
+
+- [EasyDev Template](https://github.com/blacktiny/easydev-react-redux-bootstrap4-admin-template#deployment)
+- [Deploying React Apps on GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
