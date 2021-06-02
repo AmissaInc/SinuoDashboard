@@ -5,6 +5,6 @@ account: amissa
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3328383
-bundleId: 3925759
+bundleId: 4670549
 url: https://amissa.shinyapps.io/sinuodashboard/
-when: 1606791742.47175
+when: 1622671515.47589
